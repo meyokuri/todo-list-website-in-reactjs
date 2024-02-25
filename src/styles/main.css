@@ -129,7 +129,7 @@ button.deleteAll {
 }
 
 button.deleteAll:hover {
-    background: none;
+    background: red;
     color: white;
 }
 
